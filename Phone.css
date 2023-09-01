@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@media screen and (max-width: 768px){
+@media screen and (min-width: 600px){
  /* Phone first */ 
     *{
         padding: 0px;
