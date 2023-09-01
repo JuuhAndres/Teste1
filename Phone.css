@@ -11,6 +11,12 @@
     background-color: black;
     color: white;
 }
+@media (max-width: 768px){
+    .flexslider .slides img {
+        height: 60vh;
+        object-fit: cover;
+    }
+}
 
 div#inicio{
     padding: 10px;
