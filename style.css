@@ -1,5 +1,5 @@
 @charset "UTF-8";
-
+@media (min-width: 768px){
 *{
     margin: 0px;
     padding: 0px;
@@ -139,3 +139,4 @@ footer > p{
         font-size: 1em;
         
     }
+}

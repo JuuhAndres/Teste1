@@ -107,6 +107,7 @@ div#foto2{
     transform: translate(-50% ,-50%);
     width: 350px;
     height: 150px;
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.534);
 }
 div#foto2 img{
     
